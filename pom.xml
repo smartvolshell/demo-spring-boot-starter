@@ -5,7 +5,7 @@
 
 	<groupId>com.volshell</groupId>
 	<artifactId>demo-spring-boot-starter</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>demo-spring-boot-starter</name>
