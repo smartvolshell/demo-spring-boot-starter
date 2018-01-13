@@ -37,3 +37,6 @@
 ```
     
    * then others can use maven happily.
+### Q&A
+  #### at gitpack.io [relase] without my wondered version   
+   * A： click [https://github.com/your_name/your_prject/releases] then release a version. then you can find it at jitpack.io
